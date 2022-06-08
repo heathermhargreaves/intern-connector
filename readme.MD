@@ -6,7 +6,7 @@ Welcome to Intern Connector, our goal is connect new Twilio interns with establi
 * Twilio account
 * Airtable account
 
-#Getting Started
+# Getting Started
 
 ## Airtable
 * Log into Airtable and create a new `Base`.
