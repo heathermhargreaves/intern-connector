@@ -32,5 +32,7 @@ Welcome to Intern Connector, our goal is connect new Twilio interns with establi
 ## Twilio Number
 * Purchase a number from the Numbers dashboard and make sure it has SMS enabled.
 * For incoming messages configure it to send it to a Studio Flow, and select your newly made Studio Flow.
-* Save, and text 'meet somemone' to your number to see it in action.
+* Save your settings.
 
+## Putting it together
+* Text 'meet somemone' to your number to see it in action. 
